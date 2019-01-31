@@ -6,7 +6,6 @@ https://github.com/up1/course-kubernetes-in-practice
 
 #### Techs
 1.  https://www.fluentd.org/
-2.  
 
 #### Notes
 
@@ -28,7 +27,6 @@ https://github.com/up1/course-kubernetes-in-practice
   5.6 Shadow: deploy along side, use same request without production impact
 6. HPA Horizontal Scale Auto
   * Metrics-Server >> time series database collect memory and cpu usage info.
-  * Caution: Only scale on pod.
-    
+  * Caution: Only scale on pod.    
 7. Inspect all system services
   * kube get pod --namespace kube-system
