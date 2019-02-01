@@ -9,14 +9,18 @@
 3.  tracing
 4.  tracing
 5.  logging
+6.  Go Kit : https://github.com/go-kit/kit
+7.  IsTio ( Proxy ) : https://github.com/istio/istio
 
 https://github.com/up1/microservice-workshop
 
 #### Notes
 
-1. Health Check
-   Liveness
-   Readiness
+1. Health Check <br />
+   Liveness<br />
+   Readiness<br />
+2. Deploy<br />
+   Config Map<br />
 
 ## Thu. 31 Jan 2019
 
